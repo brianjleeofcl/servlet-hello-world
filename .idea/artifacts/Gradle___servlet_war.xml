@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Gradle : servlet.war">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$" />
+    </properties>
+    <root id="archive" name="servlet.war">
+      <element id="artifact" artifact-name="Gradle : servlet.war (exploded)" />
+    </root>
+  </artifact>
+</component>
